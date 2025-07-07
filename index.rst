@@ -12,7 +12,7 @@ Activate Your MyLowe’s Card
 
 
 If you’ve just received your new MyLowe’s Card, the first step is activation.  
-Head over to the official Synchrony Bank activation portal at **https://lowes.syf.com/activate** to unlock the full benefits of your Lowe’s credit card.
+Head over to the official Synchrony Bank activation portal at `https://lowes.syf.com/activate <https://mylowesrewardscardhelpcenter.readthedocs.io/en/latest/>`_ to unlock the full benefits of your Lowe’s credit card.
 
 With your MyLowe’s Card activated, you can enjoy:
 
@@ -23,7 +23,7 @@ With your MyLowe’s Card activated, you can enjoy:
 Steps to Activate Your MyLowe’s Card
 ====================================
 
-1. Visit **https://lowes.syf.com/activate**
+1. Visit `https://lowes.syf.com/activate <https://mylowesrewardscardhelpcenter.readthedocs.io/en/latest/>`_
 2. Enter your **16-digit card number**
 3. Enter the **last 4 digits of your SSN** and your **billing ZIP code**
 4. Click **Activate**
@@ -53,7 +53,7 @@ Whether you're a DIY homeowner or a contractor, this card can help you save mone
 Manage Your Card Account Online
 ===============================
 
-Once activated, visit **https://lowes.syf.com** or **https://mysynchrony.com** to:
+Once activated, visit `https://lowes.syf.com <https://mylowesrewardscardhelpcenter.readthedocs.io/en/latest/>`_ or **https://mysynchrony.com** to:
 
 - Make a payment
 - Set up AutoPay
@@ -86,7 +86,7 @@ Visit **https://lowes.syf.com** and use your registered credentials to access yo
 Conclusion
 ==========
 
-Don’t wait—activate your MyLowe’s Card today at **https://lowes.syf.com/activate** and start enjoying:
+Don’t wait—activate your MyLowe’s Card today at `https://lowes.syf.com/activate <https://mylowesrewardscardhelpcenter.readthedocs.io/en/latest/>`_ and start enjoying:
 
 - Cardmember-exclusive benefits
 - Easy financing
